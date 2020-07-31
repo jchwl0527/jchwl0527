@@ -1,2 +1,2 @@
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://cdn.jsdelivr.net/gh/jchwl0527/jchwl0527@master/dino.gif)
